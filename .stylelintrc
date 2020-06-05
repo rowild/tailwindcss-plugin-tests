@@ -1,0 +1,17 @@
+{
+  "extends": "stylelint-config-recommended",
+  "rules": {
+    "at-rule-no-unknown": [true, {
+      "ignoreAtRules": [
+        "apply",
+        "extends",
+        "screen",
+        "tailwind"
+      ]
+    }],
+    "block-no-empty": null,
+    "unit-whitelist": ["em", "rem", "s", "ms", "px", "%", "deg", "vw", "vh"],
+    "no-duplicate-selectors": null,
+    "no-descending-specificity": null
+  }
+}

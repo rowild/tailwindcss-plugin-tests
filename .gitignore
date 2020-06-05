@@ -1,0 +1,13 @@
+.vscode
+.DS_Store
+_BU
+_Material
+_MATERIALS
+_log
+_copy_2_public
+public
+dist
+node_modules
+
+// To add symlinks via terminal, call from root folder:
+// find . -type l | sed -e s'/^\.\///g' >> .gitignore

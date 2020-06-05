@@ -1,0 +1,9 @@
+/_BU
+/_log
+/assets/
+/node_modules/
+/public
+/test/
+*.md
+./src/vendor/*
+./src/scripts/preloader*.js
