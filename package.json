@@ -44,7 +44,7 @@
     "mini-css-extract-plugin": "^0.8.2",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "picturefill": "^3.0.3",
-    "postcss": "^7.0.28",
+    "postcss": "^8.2.10",
     "postcss-cli": "^6.1.3",
     "postcss-custom-properties": "^9.0.2",
     "postcss-import": "^12.0.1",
